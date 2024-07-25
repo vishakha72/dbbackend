@@ -189,6 +189,4 @@ async def fetch_and_display():
 
 # Run the asyncio event loop
 print(asyncio.run(fetch_and_display()))
-ᐧ
-Page 2 of 14
-extraction. Press tab to insert.
+
